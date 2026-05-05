@@ -57,7 +57,6 @@
 (require 'essd-els) ;; ess-remote
 (require 'ess-sas-d)
 (require 'ess-bugs-d)
-(require 'ess-jags-d)
 (require 'ess-toolbar)
 
 (provide 'ess-site)
